@@ -1,0 +1,2 @@
+# Run the following command in your terminal: 
+pip install telebot requests pillow openai python-dotenv
